@@ -1,0 +1,11 @@
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.exe
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.deps.json
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.runtimeconfig.json
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.runtimeconfig.dev.json
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.dll
+C:\Users\Paul\Documents\Programación\Diccionario\bin\Debug\netcoreapp3.1\Diccionario.pdb
+C:\Users\Paul\Documents\Programación\Diccionario\obj\Debug\netcoreapp3.1\Diccionario.csprojAssemblyReference.cache
+C:\Users\Paul\Documents\Programación\Diccionario\obj\Debug\netcoreapp3.1\Diccionario.AssemblyInfoInputs.cache
+C:\Users\Paul\Documents\Programación\Diccionario\obj\Debug\netcoreapp3.1\Diccionario.AssemblyInfo.cs
+C:\Users\Paul\Documents\Programación\Diccionario\obj\Debug\netcoreapp3.1\Diccionario.dll
+C:\Users\Paul\Documents\Programación\Diccionario\obj\Debug\netcoreapp3.1\Diccionario.pdb
